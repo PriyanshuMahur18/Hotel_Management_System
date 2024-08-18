@@ -3,7 +3,6 @@ package Hotel;
 import java.awt.*;
 import javax.swing.*;
 import java.awt.event.*;
-
 public class AddRooms extends JFrame implements ActionListener {
 
     JButton cancel, add;
